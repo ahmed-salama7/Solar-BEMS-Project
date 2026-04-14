@@ -7,3 +7,4 @@ This repository contains the digital twin and schematic visualizer for a 3S Li-i
 
 
 Live Interactive Schematic
+https://ahmed-salama7.github.io/Solar-BEMS-System-Visualizer/
